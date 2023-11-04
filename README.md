@@ -1,5 +1,4 @@
 # odin-recipes
-this is my odin project assigment for recipes 
-it has multiple pages
-links
-and images
+this is my odin project assignment for recipes it has multiple pages,links and images
+
+link to the live preview https://lukasjarmalavicius.github.io/odin-recipes/
