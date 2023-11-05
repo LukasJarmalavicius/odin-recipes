@@ -1,6 +1,7 @@
 body {
     font-family: Papyrus, copperplate, fantasy;
     background-color: darkgray;
+    font-weight: bold;
 }
 img {
     height: auto;
@@ -13,6 +14,7 @@ img {
 }
 .ingredients, .instructions {
     background-color: white;
+
 }
 
 button
