@@ -1,0 +1,29 @@
+body {
+    font-family: Papyrus, copperplate, fantasy;
+    background-color: darkgray;
+}
+img {
+    height: auto;
+    width: 450px;
+}
+
+.history {
+    font-size: large;
+    font-weight: bolder;
+}
+.ingredients, .instructions {
+    background-color: white;
+}
+
+button
+{
+    font-size: larger;
+    background-color: black;
+    color: white;
+}
+.Header {
+    font-size: larger;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
