@@ -1,20 +1,39 @@
 body {
     font-family: Papyrus, copperplate, fantasy;
-    background-color: darkgray;
+    background-image: url("https://cdn.discordapp.com/attachments/362625963411898368/1171093358194724946/blurred-busy-restaurant-background-free-photo.jpeg?ex=655b6cae&is=6548f7ae&hm=a94ad5928c24b2846891a893c91d759e5d97dda2883549cbb7447f0e095ce668&");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
     font-weight: bold;
+    box-sizing: border-box;
+    margin-left: 500px;
+    margin-right: 500px;
+    width: 500px;
+    max-width: 500px;
+
+    border: 3px solid black;
 }
 img {
     height: auto;
-    width: 450px;
+    display: block;
+    margin: 0 auto;
+
+
 }
 
 .history {
     font-size: large;
     font-weight: bolder;
-}
-.ingredients, .instructions {
+    text-align: center;
     background-color: white;
-
+    padding: 0 50px 0 50px;
+    margin-bottom: 50px;
+}
+.information {
+    background-color: white;
+    padding-left: 90px;
+    margin-bottom: 5%;
 }
 
 button
@@ -26,6 +45,8 @@ button
 .Header {
     font-size: larger;
     text-align: center;
+    margin-top: -30px;
     background-color: black;
     color: white;
+
 }
